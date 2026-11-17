@@ -67,7 +67,7 @@ Mean speed and stopped-vehicle count are snapshots rather than summaries of traf
 
 ## AI use
 
-ChatGPT (OpenAI) assisted with Python implementation, debugging, test construction, source interpretation, and preparation of this knowledge card.
+ChatGPT (OpenAI) assisted with Python implementation, debugging, test construction, and  interpretation.
 
 The project concepts were selected by the student: queue and spillback, travel-time delay, speed and stopped vehicles, and observation-period reliability.
 
